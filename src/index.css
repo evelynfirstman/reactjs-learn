@@ -1,0 +1,53 @@
+:root {
+    --primary: rgba(175, 208, 230, 0.568);
+    --light-primary: rgba(220, 223, 224, 0.753);
+    --dark: rgba(8, 8, 8, 0.966);
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+p, span  {
+    font-size: .9rem;
+}
+
+.dark {
+    background-color: var(--dark);
+}
+
+.grey {
+    color: grey;
+}
+
+
+
+.logo img {
+    width: 50px;
+}
+
+.dev-body {
+    background-color: aliceblue;
+}
+
+.dev-box {
+    background-color: var(--light-primary);
+    
+}
+
+.emp-box {
+    background-color: var(--primary);
+}
+
+.card {
+    border: none;
+    box-shadow: 2px 1px 0px 0px #00000025;
+}

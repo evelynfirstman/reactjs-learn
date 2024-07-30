@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "title": "Senior React Developer",
+        "type": "Full-Time",
+        "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+        "location": "Boston, MA.",
+        "salary": "$70k - $80k",
+        "company": {
+            "name": "Newtech Solutions",
+            "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+            "contactEmail": "contact@gmail.com",
+            "contactPhone": "555-555-5555"
+        }
+    },
+    {
+        "id": "2",
+        "title": "Software Engineer",
+        "type": "Full-Time",
+        "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+        "location": "Boston, MA.",
+        "salary": "$70k - $80k",
+        "company": {
+            "name": "Newtech Solutions",
+            "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+            "contactEmail": "contact@gmail.com",
+            "contactPhone": "555-555-5555"
+        }
+    },
+    {
+        "id": "3",
+        "title": "Machine Learning",
+        "type": "Full-Time",
+        "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+        "location": "Boston, MA.",
+        "salary": "$70k - $80k",
+        "company": {
+            "name": "Newtech Solutions",
+            "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+            "contactEmail": "contact@gmail.com",
+            "contactPhone": "555-555-5555"
+        }
+    },
+    {
+        "id": "4",
+        "title": "Senior React Developer",
+        "type": "Full-Time",
+        "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+        "location": "Boston, MA.",
+        "salary": "$70k - $80k",
+        "company": {
+            "name": "Newtech Solutions",
+            "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+            "contactEmail": "contact@gmail.com",
+            "contactPhone": "555-555-5555"
+        }
+    },
+    {
+        "id": "5",
+        "title": "Software Engineer",
+        "type": "Full-Time",
+        "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+        "location": "Boston, MA.",
+        "salary": "$70k - $80k",
+        "company": {
+            "name": "Newtech Solutions",
+            "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+            "contactEmail": "contact@gmail.com",
+            "contactPhone": "555-555-5555"
+        }
+    },
+    {
+        "id": "6",
+        "title": "Machine Learning",
+        "type": "Full-Time",
+        "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+        "location": "Boston, MA.",
+        "salary": "$70k - $80k",
+        "company": {
+            "name": "Newtech Solutions",
+            "description": "We are seeking for a talented Front-end developer to join our team in Boston, MA. The ideal canditate will have strong skills in HTML, CSS, Javascript, with experiene working with mordern Javascript frameworks such as Ract or Angular.",
+            "contactEmail": "contact@gmail.com",
+            "contactPhone": "555-555-5555"
+        }
+    }
+]
